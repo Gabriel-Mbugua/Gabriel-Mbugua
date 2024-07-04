@@ -1,7 +1,22 @@
-## I love to code
+# Hi there, I'm Gabriel 👋
 
-How much time I've spent coding in the last 30 days. Hopefully it's alot 😂
+💻 Full-stack developer | 🌱 Currently focusing on backend development
 
-<figure>
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@randomDeveloper/c6e9350f-7a5c-4393-9217-c4826bbc2d19.png" /></a>
-</figure>
+Passionate about creating efficient, scalable backend solutions
+
+## 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white)
+
+## 📊 GitHub Stats
+
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Mbugua&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📫 Get in touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-wangai-10bb4419b/)
+
+⚡ Fun fact: I once reached platinum in valorant. Clearly, I hate life.
