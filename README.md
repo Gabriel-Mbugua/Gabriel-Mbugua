@@ -19,4 +19,4 @@ Passionate about creating efficient, scalable backend solutions
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-wangai-10bb4419b/)
 
-⚡ Fun fact: I once reached platinum in valorant. Clearly, I hate life.
+⚡ Fun fact: Currently hooked on rainbow six siege.
